@@ -1,0 +1,16 @@
+fbset sudo psmisc
+console-setup keyboard-configuration debconf-utils parted
+pkg-config
+v4l-utils
+hardlink ca-certificates curl
+fake-hwclock usbutils
+libraspberrypi-dev libraspberrypi-doc libfreetype6-dev
+dosfstools
+dphys-swapfile
+raspberrypi-sys-mods
+apt-listchanges
+usb-modeswitch
+apt-transport-https
+rpi-update
+rsync
+policykit-1
